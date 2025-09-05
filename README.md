@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋, Sou Arthur Queiroz</h1>
 <h3 align="center">Estudante de Ciência da Computação na Cesar School</h3>
 
-- 🌱 Estou aprendendo: **HTML5, CSS3 e JavaScript**
+- 🌱 Estou aprendendo: **HTML5, JavaScript e C**
 
 - 📫 Me encontre: **queirozarthur2109@gmail.com**
 
