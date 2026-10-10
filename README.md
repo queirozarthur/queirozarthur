@@ -33,6 +33,12 @@ Também sou monitor de Infraestrutura de Software na faculdade e estou aberto a 
 | --- | --- | --- |
 | [John Radio Web](https://github.com/queirozarthur/John-Radio-Web) | Site de uma rádio digital, feito para cliente. Tem player de áudio fixo na tela e recursos de acessibilidade pensados para ouvintes mais velhos. No ar em [johnradioweb.com.br](https://johnradioweb.com.br) | HTML, CSS, JavaScript, Netlify |
 | [SebraeSense](https://github.com/begnp/SebraeSense) | Painel para o SEBRAE-PE que acompanha a saúde da relação com cada cliente. Um feedback negativo derruba o score do cliente e gera um alerta para a equipe | FastAPI, React, PostgreSQL, Docker |
-| Metroid Leveling Demo <!-- coloque o link do repositório aqui --> | Demo de jogo selecionada para a Mostra-Tech 2026.1 | C, Raylib |
+| [Metroid Leveling Demo ](https://github.com/begnp/jogo_pif) | Demo de jogo selecionada para a Mostra-Tech 2026.1 | C, Raylib |
 | [Revitaliza Recife](https://github.com/queirozarthur/Revitaliza-Recife) | Jogo feito na disciplina de Algoritmos e Estruturas de Dados | C |
 | [Aeroporto-BD](https://github.com/mtojald/Aeroporto-BD) | Modelagem e banco de dados do Aeroporto Internacional do Recife, em grupo | SQL |
+
+## Atividade
+
+<p align="center">
+  <img src="atividade.svg" alt="Contribuições no GitHub no último ano">
+</p>
