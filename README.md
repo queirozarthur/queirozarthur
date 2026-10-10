@@ -37,8 +37,3 @@ Também sou monitor de Infraestrutura de Software na faculdade e estou aberto a 
 | [Revitaliza Recife](https://github.com/queirozarthur/Revitaliza-Recife) | Jogo feito na disciplina de Algoritmos e Estruturas de Dados | C |
 | [Aeroporto-BD](https://github.com/mtojald/Aeroporto-BD) | Modelagem e banco de dados do Aeroporto Internacional do Recife, em grupo | SQL |
 
-## Atividade
-
-<p align="center">
-  <img src="atividade.svg" alt="Contribuições no GitHub no último ano">
-</p>
