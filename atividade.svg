@@ -507,6 +507,7 @@ text { font-family: ui-rounded, "SF Pro Rounded", "Segoe UI", system-ui, sans-se
 <g style="--d:0.624s">
 <rect class="c" x="748" y="75" width="11" height="11" rx="3" fill="#d9f2a6"><title>5 em 11/10/2026</title></rect>
 <rect class="c" x="748" y="89" width="11" height="11" rx="3" fill="#fff" fill-opacity=".15"><title>0 em 12/10/2026</title></rect>
+<rect class="c" x="748" y="103" width="11" height="11" rx="3" fill="#fff" fill-opacity=".15"><title>0 em 13/10/2026</title></rect>
 </g>
 <g class="p">
 <rect x="8" y="186" width="763" height="170" rx="18" fill="#000" fill-opacity=".65" stroke="#fff" stroke-opacity=".25"/>
