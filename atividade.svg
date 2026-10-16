@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="779" height="364" viewBox="0 0 779 364" role="img" aria-label="160 contribuições no último ano">
-<title>160 contribuições no último ano</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="779" height="364" viewBox="0 0 779 364" role="img" aria-label="180 contribuições no último ano">
+<title>180 contribuições no último ano</title>
 <style>
 text { font-family: ui-rounded, "SF Pro Rounded", "Segoe UI", system-ui, sans-serif; fill: #fff }
 .c { animation: entra .2s cubic-bezier(.22,1,.36,1) both; animation-delay: var(--d);
@@ -21,7 +21,7 @@ text { font-family: ui-rounded, "SF Pro Rounded", "Segoe UI", system-ui, sans-se
 <clipPath id="a2"><circle cx="38" cy="330" r="14"/></clipPath>
 </defs>
 <rect width="779" height="364" rx="28" fill="url(#g)"/>
-<text x="26" y="37" font-size="16" font-weight="700">160 contribuições no último ano</text>
+<text x="26" y="37" font-size="16" font-weight="700">180 contribuições no último ano</text>
 <g class="m">
 <text x="20" y="69" font-size="10" fill-opacity=".45">Out</text>
 <text x="62" y="69" font-size="10" fill-opacity=".45">Nov</text>
@@ -508,8 +508,9 @@ text { font-family: ui-rounded, "SF Pro Rounded", "Segoe UI", system-ui, sans-se
 <rect class="c" x="748" y="75" width="11" height="11" rx="3" fill="#d9f2a6"><title>5 em 11/10/2026</title></rect>
 <rect class="c" x="748" y="89" width="11" height="11" rx="3" fill="#fff" fill-opacity=".15"><title>0 em 12/10/2026</title></rect>
 <rect class="c" x="748" y="103" width="11" height="11" rx="3" fill="#d9f2a6"><title>1 em 13/10/2026</title></rect>
-<rect class="c" x="748" y="117" width="11" height="11" rx="3" fill="#fff" fill-opacity=".15"><title>0 em 14/10/2026</title></rect>
+<rect class="c" x="748" y="117" width="11" height="11" rx="3" fill="#5f8a14"><title>20 em 14/10/2026</title></rect>
 <rect class="c" x="748" y="131" width="11" height="11" rx="3" fill="#fff" fill-opacity=".15"><title>0 em 15/10/2026</title></rect>
+<rect class="c" x="748" y="145" width="11" height="11" rx="3" fill="#fff" fill-opacity=".15"><title>0 em 16/10/2026</title></rect>
 </g>
 <g class="p">
 <rect x="8" y="186" width="763" height="170" rx="18" fill="#000" fill-opacity=".65" stroke="#fff" stroke-opacity=".25"/>
@@ -525,8 +526,8 @@ text { font-family: ui-rounded, "SF Pro Rounded", "Segoe UI", system-ui, sans-se
 <text x="747" y="295" font-size="14" text-anchor="end" fill-opacity=".85">21</text>
 <circle cx="38" cy="330" r="15" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="2"/>
 <circle cx="38" cy="330" r="14" fill="#fff" fill-opacity=".25"/>
-<text x="38" y="334" font-size="11" font-weight="500" text-anchor="middle">F</text>
-<text x="64" y="335" font-size="14">freelance</text>
+<text x="38" y="334" font-size="11" font-weight="500" text-anchor="middle">D</text>
+<text x="64" y="335" font-size="14">dr-notebook</text>
 <text x="747" y="335" font-size="14" text-anchor="end" fill-opacity=".85">19</text>
 </g>
 </svg>
