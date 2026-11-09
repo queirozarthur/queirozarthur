@@ -506,6 +506,7 @@ text { font-family: ui-rounded, "SF Pro Rounded", "Segoe UI", system-ui, sans-se
 </g>
 <g style="--d:0.624s">
 <rect class="c" x="748" y="75" width="11" height="11" rx="3" fill="#fff" fill-opacity=".15"><title>0 em 08/11/2026</title></rect>
+<rect class="c" x="748" y="89" width="11" height="11" rx="3" fill="#fff" fill-opacity=".15"><title>0 em 09/11/2026</title></rect>
 </g>
 <g class="p">
 <rect x="8" y="186" width="763" height="170" rx="18" fill="#000" fill-opacity=".65" stroke="#fff" stroke-opacity=".25"/>
@@ -516,8 +517,7 @@ text { font-family: ui-rounded, "SF Pro Rounded", "Segoe UI", system-ui, sans-se
 <text x="64" y="255" font-size="14">dashboard-financas</text>
 <text x="747" y="255" font-size="14" text-anchor="end" fill-opacity=".85">38</text>
 <circle cx="38" cy="290" r="15" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="2"/>
-<circle cx="38" cy="290" r="14" fill="#fff" fill-opacity=".25"/>
-<text x="38" y="294" font-size="11" font-weight="500" text-anchor="middle">L</text>
+<image href="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAEAAQAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APeKKSjNAxaSmTTJBDJNIcIilmPoBXzx4q+OOtz61PB4fdLSwjO1JGiV3kx/FznGfTFAH0VS18iW3jnxDDqjX6a5d/aWOWkZiQfbHTHtXu/w6+JsHiwLp1/ti1YKWGxcJMo7jng+o/Klcdj0SiiimISikpaAGTI0kEiIwV2UhWIzg464r5WTwdbBJZdRlK3AuZUf94EUFWKnscnINfVleI3VymlG7iu0eRlnKFmUsS5J5P1OefU1z4ibilY6cLTjOT5jhrz4frFaC/0+8cxyHaBIFyG9CelXPCOhap4e8d+Hbm4UILi6EYCMT6Bs/gf0rsLe6gbTRHf2UaRAmT94cgHPAPGAcV1Gi6XbXuv6XPHH8lkXlQYwBlCucfUisaVafMoyOmvh4KLlE9EooBoruPNG0tch4s+I3h/weWhvrky323ctpANz+2ey/j+teQ3Px78TSXMr2tlpsMBOEjdHcqPdtwyfw/CgD6NryXx3fpH4qm2x74hEkcwXucZz+RA/CvHvEXxN8YeIIWhutWkitm4MNqBEp+pHJH1Jrt/Dlxaan4dgeGTzHRFEgz8ysBzn/PNc2KbUUdWESc27nU6fqVhPa+XFI1wy4IiK5Cnt7D8a9E8PWkcGmRTbQZpRl29eelcNZRxxWyMoGSOTtxmtPQ/iJoaauPDV5MLW8iAWN5D+7kJGdu7s3PQ/nnissM7z17G+Lb5DvRS0lFdx5x8M3V9cX97Ld3UzzTzOXkkc5LE9SaUNgZ2Z+lUSxFWYZC2M4qhEjSqRggj6ipbS9uLKXz7O4eGTGN0blTj04pp5phjVj059aTQHRr4+8TLb+QNTcJjGREm788ZrAlme4maWWRnkclmZySSe5JNR+WR0Y0bXx1U0lGMdkU5Se7O68J/FPxH4XCQLc/bLJeBb3JLAD/ZPVfw49q+j/C3i3SvF+mfbdMlJ24EsLjDxH0I/r0r42G4dRj6GvSPgjqk9r8Q7e0Rj5V5FJHIvYgKXB/Nf1piP/9k=" x="24" y="276" width="28" height="28" clip-path="url(#a1)"/>
 <text x="64" y="295" font-size="14">livibylm</text>
 <text x="747" y="295" font-size="14" text-anchor="end" fill-opacity=".85">33</text>
 <circle cx="38" cy="330" r="15" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="2"/>
